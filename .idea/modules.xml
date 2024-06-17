@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AnotaçoesJava/AnotaçoesJava.iml" filepath="$PROJECT_DIR$/AnotaçoesJava/AnotaçoesJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Projetos De Aprendizado/Buscador/Buscador.iml" filepath="$PROJECT_DIR$/Projetos De Aprendizado/Buscador/Buscador.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Projetos De Aprendizado/ConvertendoTemperaturas/ConvertendoTemperaturas.iml" filepath="$PROJECT_DIR$/Projetos De Aprendizado/ConvertendoTemperaturas/ConvertendoTemperaturas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Projetos De Aprendizado/DesafioFinanceiro/DesafioFinanceiro.iml" filepath="$PROJECT_DIR$/Projetos De Aprendizado/DesafioFinanceiro/DesafioFinanceiro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Projetos De Aprendizado/MinhasMusicas/MinhasMusicas.iml" filepath="$PROJECT_DIR$/Projetos De Aprendizado/MinhasMusicas/MinhasMusicas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Projetos De Aprendizado/screenmatch/screenmatch.iml" filepath="$PROJECT_DIR$/Projetos De Aprendizado/screenmatch/screenmatch.iml" />
+    </modules>
+  </component>
+</project>
