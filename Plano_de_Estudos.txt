@@ -1,0 +1,94 @@
+### Plano de Estudos em Java
+
+#### Variáveis e Tipos de Dados
+- [ ] **Tipos Primitivos**
+  - [ ] `int`, `float`, `double`, `char`, `boolean`, `byte`, `short`, `long`
+- [ ] **Declaração e Inicialização de Variáveis**
+
+#### Controle de Fluxo
+- [ ] **Estruturas Condicionais**
+  - [ ] `if`, `else if`, `else`
+  - [ ] `switch`
+- [ ] **Estruturas de Repetição**
+  - [ ] `for`
+  - [ ] `while`
+  - [ ] `do-while`
+
+#### Conversão de Tipos
+- [ ] **Conversão Explícita e Implícita**
+  - [ ] Casting de tipos primitivos
+  - [ ] Conversão entre tipos numéricos (`int` para `double`, `double` para `int`, etc.)
+- [ ] **Conversão de Strings**
+  - [ ] Conversão de números para Strings (`String.valueOf()`)
+  - [ ] Conversão de Strings para números (`Integer.parseInt()`, `Double.parseDouble()`, etc.)
+
+#### Funções e Métodos
+- [ ] **Definição e Chamada de Métodos**
+  - [ ] Sintaxe de métodos (`public static void nomeMetodo()`)
+  - [ ] Passagem de parâmetros e retorno de valores
+- [ ] **Escopo de Variáveis**
+  - [ ] Variáveis locais e globais
+  - [ ] Parâmetros de métodos
+- [ ] **Sobrecarga de Métodos**
+  - [ ] Criar métodos com o mesmo nome mas com diferentes parâmetros
+
+#### Arrays
+- [ ] **Introdução a Arrays**
+  - [ ] Declaração, inicialização e acesso a elementos de arrays
+  - [ ] Arrays unidimensionais
+- [ ] **Arrays Multidimensionais**
+  - [ ] Declaração e uso de arrays bidimensionais
+- [ ] **Manipulação de Arrays**
+  - [ ] Percorrer arrays com loops (`for`, `foreach`)
+  - [ ] Operações comuns com arrays (soma de elementos, busca, etc.)
+
+#### Orientação a Objetos
+- [ ] **Classes e Objetos**
+  - [ ] Definição de classes
+  - [ ] Instanciação de objetos
+- [ ] **Encapsulamento**
+  - [ ] Getters e Setters
+  - [ ] Modificadores de acesso (`public`, `private`, `protected`, `default`)
+- [ ] **Herança**
+  - [ ] Extensão de classes
+  - [ ] Sobrescrita de métodos
+- [ ] **Polimorfismo**
+  - [ ] Classes e métodos abstratos
+  - [ ] Interfaces
+
+#### Manipulação de Strings
+- [ ] **Criar e Manipular Strings**
+  - [ ] Concatenação
+  - [ ] Métodos úteis (substring, indexOf, etc.)
+- [ ] **Formatar Strings**
+  - [ ] Uso do método `format()`
+  - [ ] Uso de `String.format()`
+
+#### Exceções
+- [ ] **Tratamento de Exceções**
+  - [ ] `try`, `catch`, `finally`
+  - [ ] Lançamento de exceções
+
+#### Estruturas de Dados
+- [ ] **Listas Ligadas**
+- [ ] **Pilhas**
+- [ ] **Filas**
+- [ ] **Árvores**
+- [ ] **Grafos**
+
+#### Coleções e Generics
+- [ ] **Coleções**
+  - [ ] List, Set, Map
+  - [ ] Uso de Collections Framework
+- [ ] **Generics**
+  - [ ] Uso de tipos genéricos
+  - [ ] Vantagens e boas práticas
+
+#### Programação Funcional
+- [ ] **Expressões Lambda**
+  - [ ] Sintaxe e uso em Java
+- [ ] **Streams**
+  - [ ] Operações com Streams
+  - [ ] Uso de Collectors
+
+<reb>
