@@ -1,14 +1,14 @@
 ### Plano de Estudos em Java
 
 #### Variáveis e Tipos de Dados
-- [ ] **Tipos Primitivos**
-  - [ ] `int`, `float`, `double`, `char`, `boolean`, `byte`, `short`, `long`
-- [ ] **Declaração e Inicialização de Variáveis**
+- [x] **Tipos Primitivos**
+  - [x] `int`, `float`, `double`, `char`, `boolean`, `byte`, `short`, `long`
+- [x] **Declaração e Inicialização de Variáveis**
 
 #### Controle de Fluxo
-- [ ] **Estruturas Condicionais**
-  - [ ] `if`, `else if`, `else`
-  - [ ] `switch`
+- [x] **Estruturas Condicionais**
+  - [x] `if`, `else if`, `else`
+  - [x] `switch`
 - [ ] **Estruturas de Repetição**
   - [ ] `for`
   - [ ] `while`

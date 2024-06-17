@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AnotaçoesJava.iml" filepath="$PROJECT_DIR$/AnotaçoesJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Controle_de_Fluxo/Controle_de_Fluxo.iml" filepath="$PROJECT_DIR$/Controle_de_Fluxo/Controle_de_Fluxo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Variaveis/Variaveis.iml" filepath="$PROJECT_DIR$/Variaveis/Variaveis.iml" />
     </modules>
   </component>
 </project>
