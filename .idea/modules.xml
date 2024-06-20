@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Projetos/Projetos One/Buscador/Buscador.iml" filepath="$PROJECT_DIR$/Projetos/Projetos One/Buscador/Buscador.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AnotaçoesJava/Controle_de_Fluxo/Controle_de_Fluxo.iml" filepath="$PROJECT_DIR$/AnotaçoesJava/Controle_de_Fluxo/Controle_de_Fluxo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AnotaçoesJava/Conversao_de_Tipos/Conversao_de_Tipos.iml" filepath="$PROJECT_DIR$/AnotaçoesJava/Conversao_de_Tipos/Conversao_de_Tipos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Projetos/Projetos One/ConvertendoTemperaturas/ConvertendoTemperaturas.iml" filepath="$PROJECT_DIR$/Projetos/Projetos One/ConvertendoTemperaturas/ConvertendoTemperaturas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Projetos/Projetos One/DesafioFinanceiro/DesafioFinanceiro.iml" filepath="$PROJECT_DIR$/Projetos/Projetos One/DesafioFinanceiro/DesafioFinanceiro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Projetos/Projetos One/MinhasMusicas/MinhasMusicas.iml" filepath="$PROJECT_DIR$/Projetos/Projetos One/MinhasMusicas/MinhasMusicas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AnotaçoesJava/Variaveis/Variaveis.iml" filepath="$PROJECT_DIR$/AnotaçoesJava/Variaveis/Variaveis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Projetos/Projetos One/screenmatch/screenmatch.iml" filepath="$PROJECT_DIR$/Projetos/Projetos One/screenmatch/screenmatch.iml" />
+    </modules>
+  </component>
+</project>

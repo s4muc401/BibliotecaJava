@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Projetos One/Buscador/Buscador.iml" filepath="$PROJECT_DIR$/Projetos One/Buscador/Buscador.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Projetos de Aprendizado/ConversorASCII/ConversorASCII.iml" filepath="$PROJECT_DIR$/Projetos de Aprendizado/ConversorASCII/ConversorASCII.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Projetos One/ConvertendoTemperaturas/ConvertendoTemperaturas.iml" filepath="$PROJECT_DIR$/Projetos One/ConvertendoTemperaturas/ConvertendoTemperaturas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Projetos One/DesafioFinanceiro/DesafioFinanceiro.iml" filepath="$PROJECT_DIR$/Projetos One/DesafioFinanceiro/DesafioFinanceiro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Projetos One/MinhasMusicas/MinhasMusicas.iml" filepath="$PROJECT_DIR$/Projetos One/MinhasMusicas/MinhasMusicas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Projetos.iml" filepath="$PROJECT_DIR$/.idea/Projetos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Projetos One/screenmatch/screenmatch.iml" filepath="$PROJECT_DIR$/Projetos One/screenmatch/screenmatch.iml" />
+    </modules>
+  </component>
+</project>

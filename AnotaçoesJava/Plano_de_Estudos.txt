@@ -9,18 +9,18 @@
 - [x] **Estruturas Condicionais**
   - [x] `if`, `else if`, `else`
   - [x] `switch`
-- [ ] **Estruturas de Repetição**
-  - [ ] `for`
-  - [ ] `while`
-  - [ ] `do-while`
+- [x] **Estruturas de Repetição**
+  - [x] `for`
+  - [x] `while`
+  - [x] `do-while`
 
 #### Conversão de Tipos
-- [ ] **Conversão Explícita e Implícita**
-  - [ ] Casting de tipos primitivos
-  - [ ] Conversão entre tipos numéricos (`int` para `double`, `double` para `int`, etc.)
-- [ ] **Conversão de Strings**
-  - [ ] Conversão de números para Strings (`String.valueOf()`)
-  - [ ] Conversão de Strings para números (`Integer.parseInt()`, `Double.parseDouble()`, etc.)
+- [x] **Conversão Explícita e Implícita**
+  - [x] Casting de tipos primitivos
+  - [x] Conversão entre tipos numéricos (`int` para `double`, `double` para `int`, etc.)
+- [x] **Conversão de Strings**
+  - [x] Conversão de números para Strings (`String.valueOf()`)
+  - [x] Conversão de Strings para números (`Integer.parseInt()`, `Double.parseDouble()`, etc.)
 
 #### Funções e Métodos
 - [ ] **Definição e Chamada de Métodos**

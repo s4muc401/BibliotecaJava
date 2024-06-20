@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9671a1b2-437b-4fe5-ab74-1758b97a2b86" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/AnotaçoesJava/Controle_de_Fluxo/Controle_de_Fluxo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AnotaçoesJava/Conversao_de_Tipos/Conversao_de_Tipos.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AnotaçoesJava/Conversao_de_Tipos/src/CastingPrimitivos.java" beforeDir="false" afterPath="$PROJECT_DIR$/AnotaçoesJava/Conversao_de_Tipos/src/CastingPrimitivos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AnotaçoesJava/Variaveis/Variaveis.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plano_de_Estudos.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Plano_de_Estudos.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projetos/Projetos One/Buscador/Buscador.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projetos/Projetos One/ConvertendoTemperaturas/ConvertendoTemperaturas.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projetos/Projetos One/DesafioFinanceiro/DesafioFinanceiro.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projetos/Projetos One/MinhasMusicas/MinhasMusicas.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2i9bKdzTyHAntjS2I5xWHBQQzQg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Pc/Documents/Programação/Estudos/Java/Projetos"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Pc\Documents\Programação\Estudos\Java\Projetos\Projetos de Aprendizado" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9671a1b2-437b-4fe5-ab74-1758b97a2b86" name="Changes" comment="" />
+      <created>1718905678335</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718905678335</updated>
+    </task>
+    <servers />
+  </component>
+</project>
