@@ -23,12 +23,12 @@
   - [x] Conversão de Strings para números (`Integer.parseInt()`, `Double.parseDouble()`, etc.)
 
 #### Funções e Métodos
-- [ ] **Definição e Chamada de Métodos**
-  - [ ] Sintaxe de métodos (`public static void nomeMetodo()`)
-  - [ ] Passagem de parâmetros e retorno de valores
-- [ ] **Escopo de Variáveis**
-  - [ ] Variáveis locais e globais
-  - [ ] Parâmetros de métodos
+- [x] **Definição e Chamada de Métodos**
+  - [x] Sintaxe de métodos (`public static void nomeMetodo()`)
+  - [x] Passagem de parâmetros e retorno de valores
+- [x] **Escopo de Variáveis**
+  - [x] Variáveis locais e globais
+  - [x] Parâmetros de métodos
 - [ ] **Sobrecarga de Métodos**
   - [ ] Criar métodos com o mesmo nome mas com diferentes parâmetros
 
