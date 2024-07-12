@@ -13,8 +13,10 @@ public class Principal {
         try {
             Endereco novoEndereco = consulta.buscaEndereco(cep);
             System.out.println(novoEndereco);
+
             GeradorDeArquivo gerador = new GeradorDeArquivo();
             gerador.salvaJson(novoEndereco);
+
         } catch (RuntimeException e) {
             System.out.println(e.getMessage());
             System.out.println("Finalizando a aplicação");
